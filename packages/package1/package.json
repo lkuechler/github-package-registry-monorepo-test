@@ -1,0 +1,13 @@
+{
+  "name": "@lkuechler/github-package-registry-monorepo-test-package1",
+  "version": "0.1.0",
+  "description": "package1 of github package registry monorepo test",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/lkuechler/github-package-registry-monorepo-test.git"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "github-package-registry-monorepo-test",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  },
+  "publishConfig": {
+    "access": "private"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/lkuechler/github-package-registry-monorepo-test.git"
+  },
+  "version": "0.1.0"
+}
