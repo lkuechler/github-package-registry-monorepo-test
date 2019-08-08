@@ -1,13 +1,13 @@
 {
   "name": "@lkuechler/github-package-registry-monorepo-test",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "package1 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
     "access": "restricted"
   },
   "dependencies": {
-    "@lkuechler/github-package-registry-monorepo-test-package2": "^0.5.0"
+    "@lkuechler/github-package-registry-monorepo-test-package2": "^0.6.0"
   },
   "repository": {
     "type": "git",
