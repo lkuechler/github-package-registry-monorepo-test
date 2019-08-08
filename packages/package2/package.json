@@ -4,7 +4,7 @@
   "description": "package2 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "repository": {
     "type": "git",
