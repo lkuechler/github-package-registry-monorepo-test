@@ -9,5 +9,6 @@
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/lkuechler/github-package-registry-monorepo-test.git"
-  }
+  },
+  "sideEffects": false
 }
