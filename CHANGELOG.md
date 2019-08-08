@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.15.0](https://github.com/lkuechler/github-package-registry-monorepo-test/compare/v0.14.0...v0.15.0) (2019-08-08)
+
+
+### Features
+
+* **package2:** make package2 public ([ca943ce](https://github.com/lkuechler/github-package-registry-monorepo-test/commit/ca943ce))
+
+
+
+
+
 # [0.14.0](https://github.com/lkuechler/github-package-registry-monorepo-test/compare/v0.13.0...v0.14.0) (2019-08-08)
 
 
