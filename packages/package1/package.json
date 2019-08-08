@@ -6,6 +6,9 @@
   "publishConfig": {
     "access": "restricted"
   },
+  "dependencies": {
+    "@lkuechler/github-package-registry-monorepo-test-package2": "^0.5.0"
+  },
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com/lkuechler/github-package-registry-monorepo-test.git"
