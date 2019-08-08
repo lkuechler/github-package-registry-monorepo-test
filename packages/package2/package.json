@@ -1,6 +1,6 @@
 {
   "name": "@lkuechler/github-package-registry-monorepo-test-package2",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "package2 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
