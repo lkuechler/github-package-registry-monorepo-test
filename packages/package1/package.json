@@ -1,5 +1,5 @@
 {
-  "name": "@lkuechler/github-package-registry-monorepo-test-package1",
+  "name": "@lkuechler/github-package-registry-monorepo-test",
   "version": "0.4.0",
   "description": "package1 of github package registry monorepo test",
   "main": "index.js",
