@@ -1,5 +1,5 @@
 {
-  "name": "github-package-registry-monorepo-test",
+  "name": "@lkuechler/github-package-registry-monorepo-test-root",
   "workspaces": [
     "packages/*"
   ],
