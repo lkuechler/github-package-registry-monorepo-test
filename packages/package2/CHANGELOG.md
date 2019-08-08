@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0](https://github.com/lkuechler/github-package-registry-monorepo-test/compare/v0.9.0...v0.10.0) (2019-08-08)
+
+
+### Features
+
+* **package2:** change readme ([4ee758f](https://github.com/lkuechler/github-package-registry-monorepo-test/commit/4ee758f))
+
+
+
+
+
 # [0.9.0](https://github.com/lkuechler/github-package-registry-monorepo-test/compare/v0.8.0...v0.9.0) (2019-08-08)
 
 
