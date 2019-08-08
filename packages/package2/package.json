@@ -1,10 +1,10 @@
 {
   "name": "@lkuechler/github-package-registry-monorepo-test-package2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "package2 of github package registry monorepo test",
   "main": "index.js",
   "dependencies": {
-    "@lkuechler/github-package-registry-monorepo-test-package1": "0.1.0"
+    "@lkuechler/github-package-registry-monorepo-test-package1": "^0.1.1"
   },
   "publishConfig": {
     "access": "restricted"
